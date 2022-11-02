@@ -1,0 +1,207 @@
+iso3,country,hdicode,region,gii_2010,gii_2019,difference_2010_2019
+AFG,Afghanistan,Low,SA,0.753,0.665,0.088
+AGO,Angola,Medium,SSA,0.551,0.537,0.014
+ALB,Albania,High,ECA,0.246,0.156,0.09
+AND,Andorra,Very High,,,,n/a
+ARE,United Arab Emirates,Very High,AS,0.175,0.056,0.119
+ARG,Argentina,Very High,LAC,0.364,0.306,0.058
+ARM,Armenia,High,ECA,0.346,0.239,0.107
+ATG,Antigua and Barbuda,High,LAC,,,n/a
+AUS,Australia,Very High,,0.136,0.08,0.056
+AUT,Austria,Very High,,0.111,0.054,0.057
+AZE,Azerbaijan,High,ECA,0.338,0.314,0.024
+BDI,Burundi,Low,SSA,0.54,0.507,0.033
+BEL,Belgium,Very High,,0.092,0.048,0.044
+BEN,Benin,Low,SSA,0.619,0.61,0.009
+BFA,Burkina Faso,Low,SSA,0.617,0.585,0.032
+BGD,Bangladesh,Medium,SA,0.607,0.531,0.076
+BGR,Bulgaria,High,,0.24,0.205,0.035
+BHR,Bahrain,Very High,AS,0.252,0.186,0.066
+BHS,Bahamas,Very High,LAC,0.369,0.324,0.045
+BIH,Bosnia and Herzegovina,High,ECA,0.222,0.146,0.076
+BLR,Belarus,Very High,ECA,0.151,0.103,0.048
+BLZ,Belize,Medium,LAC,0.455,0.406,0.049
+BOL,Bolivia (Plurinational State of),Medium,LAC,0.486,0.421,0.065
+BRA,Brazil,High,LAC,0.45,0.395,0.055
+BRB,Barbados,High,LAC,0.32,0.266,0.054
+BRN,Brunei Darussalam,Very High,EAP,,0.258,n/a
+BTN,Bhutan,Medium,SA,0.526,0.423,0.103
+BWA,Botswana,Medium,SSA,0.511,0.47,0.041
+CAF,Central African Republic,Low,SSA,0.701,0.69,0.011
+CAN,Canada,Very High,,0.133,0.069,0.064
+CHE,Switzerland,Very High,,0.057,0.018,0.039
+CHL,Chile,Very High,LAC,0.339,0.206,0.133
+CHN,China,High,EAP,0.253,0.203,0.05
+CIV,C?te d'Ivoire,Medium,SSA,0.66,0.621,0.039
+CMR,Cameroon,Medium,SSA,0.627,0.57,0.057
+COD,Congo (Democratic Republic of the),Low,SSA,0.656,0.61,0.046
+COG,Congo,Medium,SSA,0.615,0.565,0.05
+COL,Colombia,High,LAC,0.464,0.423,0.041
+COM,Comoros,Medium,SSA,,,n/a
+CPV,Cabo Verde,Medium,SSA,,0.378,n/a
+CRI,Costa Rica,Very High,LAC,0.333,0.269,0.064
+CUB,Cuba,High,LAC,0.333,0.307,0.026
+CYP,Cyprus,Very High,,0.13,0.109,0.021
+CZE,Czechia,Very High,,0.139,0.124,0.015
+DEU,Germany,Very High,,0.096,0.079,0.017
+DJI,Djibouti,Low,AS,,,n/a
+DMA,Dominica,High,LAC,,,n/a
+DNK,Denmark,Very High,,0.049,0.016,0.033
+DOM,Dominican Republic,High,LAC,0.491,0.443,0.048
+DZA,Algeria,High,AS,0.519,0.437,0.082
+ECU,Ecuador,High,LAC,0.432,0.37,0.062
+EGY,Egypt,High,AS,0.557,0.468,0.089
+ERI,Eritrea,Low,SSA,,,n/a
+ESP,Spain,Very High,,0.105,0.056,0.049
+EST,Estonia,Very High,,0.166,0.092,0.074
+ETH,Ethiopia,Low,SSA,0.596,0.526,0.07
+FIN,Finland,Very High,,0.07,0.031,0.039
+FJI,Fiji,High,EAP,0.401,0.324,0.077
+FRA,France,Very High,,0.129,0.086,0.043
+FSM,Micronesia (Federated States of),Medium,EAP,,,n/a
+GAB,Gabon,High,SSA,0.576,0.545,0.031
+GBR,United Kingdom,Very High,,0.179,0.106,0.073
+GEO,Georgia,Very High,ECA,0.414,0.295,0.119
+GHA,Ghana,Medium,SSA,0.573,0.536,0.037
+GIN,Guinea,Low,SSA,0.653,0.607,0.046
+GMB,Gambia,Low,SSA,0.659,0.605,0.054
+GNB,Guinea-Bissau,Low,SSA,0.661,0.629,0.032
+GNQ,Equatorial Guinea,Medium,SSA,,,n/a
+GRC,Greece,Very High,,0.152,0.121,0.031
+GRD,Grenada,High,LAC,,,n/a
+GTM,Guatemala,Medium,LAC,0.549,0.488,0.061
+GUY,Guyana,High,LAC,0.496,0.46,0.036
+HKG,"Hong Kong, China (SAR)",Very High,,,,n/a
+HND,Honduras,Medium,LAC,0.469,0.447,0.022
+HRV,Croatia,Very High,,0.136,0.119,0.017
+HTI,Haiti,Low,LAC,0.625,0.635,-0.01
+HUN,Hungary,Very High,,0.24,0.227,0.013
+IDN,Indonesia,High,EAP,0.499,0.457,0.042
+IND,India,Medium,SA,0.582,0.486,0.096
+IRL,Ireland,Very High,,0.163,0.079,0.084
+IRN,Iran (Islamic Republic of),High,SA,0.525,0.447,0.078
+IRQ,Iraq,Medium,AS,0.574,0.567,0.007
+ISL,Iceland,Very High,,0.093,0.051,0.042
+ISR,Israel,Very High,,0.145,0.098,0.047
+ITA,Italy,Very High,,0.123,0.054,0.069
+JAM,Jamaica,High,LAC,0.417,0.363,0.054
+JOR,Jordan,High,AS,0.482,0.457,0.025
+JPN,Japan,Very High,,0.114,0.08,0.034
+KAZ,Kazakhstan,Very High,ECA,0.278,0.168,0.11
+KEN,Kenya,Medium,SSA,0.595,0.511,0.084
+KGZ,Kyrgyzstan,Medium,ECA,0.378,0.381,-0.003
+KHM,Cambodia,Medium,EAP,0.51,0.464,0.046
+KIR,Kiribati,Medium,EAP,,,n/a
+KNA,Saint Kitts and Nevis,High,LAC,,,n/a
+KOR,Korea (Republic of),Very High,,0.113,0.078,0.035
+KWT,Kuwait,Very High,AS,0.225,0.225,0
+LAO,Lao People's Democratic Republic,Medium,EAP,0.524,0.468,0.056
+LBN,Lebanon,High,AS,0.445,0.432,0.013
+LBR,Liberia,Low,SSA,0.657,0.642,0.015
+LBY,Libya,High,AS,0.28,0.26,0.02
+LCA,Saint Lucia,High,LAC,0.392,0.392,0
+LIE,Liechtenstein,Very High,,,,n/a
+LKA,Sri Lanka,High,SA,0.416,0.385,0.031
+LSO,Lesotho,Low,SSA,0.558,0.557,0.001
+LTU,Lithuania,Very High,,0.149,0.122,0.027
+LUX,Luxembourg,Very High,,0.109,0.062,0.047
+LVA,Latvia,Very High,,0.231,0.156,0.075
+MAR,Morocco,Medium,AS,0.526,0.432,0.094
+MCO,Monaco,,,,,n/a
+MDA,Moldova (Republic of),High,ECA,0.284,0.229,0.055
+MDG,Madagascar,Low,SSA,0.603,0.558,0.045
+MDV,Maldives,High,SA,0.406,0.353,0.053
+MEX,Mexico,High,LAC,0.408,0.317,0.091
+MHL,Marshall Islands,Medium,EAP,,,n/a
+MKD,North Macedonia,High,ECA,0.171,0.134,0.037
+MLI,Mali,Low,SSA,0.666,0.667,-0.001
+MLT,Malta,Very High,,0.264,0.162,0.102
+MMR,Myanmar,Medium,EAP,0.555,0.509,0.046
+MNE,Montenegro,Very High,ECA,0.207,0.115,0.092
+MNG,Mongolia,High,EAP,0.415,0.323,0.092
+MOZ,Mozambique,Low,SSA,0.56,0.54,0.02
+MRT,Mauritania,Medium,SSA,0.657,0.632,0.025
+MUS,Mauritius,Very High,SSA,0.386,0.344,0.042
+MWI,Malawi,Low,SSA,0.597,0.555,0.042
+MYS,Malaysia,Very High,EAP,0.28,0.225,0.055
+NAM,Namibia,Medium,SSA,0.499,0.445,0.054
+NER,Niger,Low,SSA,0.694,0.632,0.062
+NGA,Nigeria,Low,SSA,0.672,0.683,-0.011
+NIC,Nicaragua,Medium,LAC,0.497,0.432,0.065
+NLD,Netherlands,Very High,,0.052,0.028,0.024
+NOR,Norway,Very High,,0.072,0.016,0.056
+NPL,Nepal,Medium,SA,0.518,0.454,0.064
+NRU,Nauru,,EAP,,,n/a
+NZL,New Zealand,Very High,,0.173,0.1,0.073
+OMN,Oman,Very High,AS,0.335,0.307,0.028
+PAK,Pakistan,Low,SA,0.582,0.534,0.048
+PAN,Panama,Very High,LAC,0.508,0.398,0.11
+PER,Peru,High,LAC,0.423,0.397,0.026
+PHL,Philippines,Medium,EAP,0.465,0.421,0.044
+PLW,Palau,High,EAP,,,n/a
+PNG,Papua New Guinea,Medium,EAP,0.655,0.726,-0.071
+POL,Poland,Very High,,0.171,0.111,0.06
+PRK,Korea (Democratic People's Rep. of),,EAP,,,n/a
+PRT,Portugal,Very High,,0.127,0.071,0.056
+PRY,Paraguay,High,LAC,0.492,0.448,0.044
+PSE,"Palestine, State of",High,AS,,,n/a
+QAT,Qatar,Very High,AS,0.541,0.167,0.374
+ROU,Romania,Very High,,0.358,0.278,0.08
+RUS,Russian Federation,Very High,,0.307,0.203,0.104
+RWA,Rwanda,Low,SSA,0.45,0.388,0.062
+SAU,Saudi Arabia,Very High,AS,0.651,0.265,0.386
+SDN,Sudan,Low,AS,0.609,0.555,0.054
+SEN,Senegal,Low,SSA,0.586,0.532,0.054
+SGP,Singapore,Very High,EAP,0.085,0.051,0.034
+SLB,Solomon Islands,Medium,EAP,,,n/a
+SLE,Sierra Leone,Low,SSA,0.658,0.635,0.023
+SLV,El Salvador,Medium,LAC,0.424,0.37,0.054
+SMR,San Marino,Very High,,,,n/a
+SOM,Somalia,,AS,,,n/a
+SRB,Serbia,Very High,ECA,0.194,0.128,0.066
+SSD,South Sudan,Low,SSA,,0.595,-0.595
+STP,Sao Tome and Principe,Medium,SSA,0.548,0.522,0.026
+SUR,Suriname,High,LAC,0.517,0.423,0.094
+SVK,Slovakia,Very High,,0.203,0.194,0.009
+SVN,Slovenia,Very High,,0.128,0.07,0.058
+SWE,Sweden,Very High,,0.052,0.024,0.028
+SWZ,Eswatini (Kingdom of),Medium,SSA,0.552,0.561,-0.009
+SYC,Seychelles,High,SSA,,,n/a
+SYR,Syrian Arab Republic,Medium,AS,0.509,0.465,0.044
+TCD,Chad,Low,SSA,0.747,0.69,0.057
+TGO,Togo,Low,SSA,0.621,0.588,0.033
+THA,Thailand,Very High,EAP,0.378,0.335,0.043
+TJK,Tajikistan,Medium,ECA,0.343,0.298,0.045
+TKM,Turkmenistan,High,ECA,0.209,0.18,0.029
+TLS,Timor-Leste,Medium,EAP,0.453,0.38,0.073
+TON,Tonga,High,EAP,0.643,0.367,0.276
+TTO,Trinidad and Tobago,Very High,LAC,0.367,0.344,0.023
+TUN,Tunisia,High,AS,0.29,0.27,0.02
+TUR,Turkey,Very High,ECA,0.422,0.277,0.145
+TUV,Tuvalu,Medium,EAP,,,n/a
+TZA,Tanzania (United Republic of),Low,SSA,0.581,0.561,0.02
+UGA,Uganda,Low,SSA,0.561,0.53,0.031
+UKR,Ukraine,High,ECA,0.325,0.205,0.12
+URY,Uruguay,Very High,LAC,0.321,0.253,0.068
+USA,United States,Very High,,0.248,0.189,0.059
+UZB,Uzbekistan,High,ECA,0.276,0.268,0.008
+VCT,Saint Vincent and the Grenadines,High,LAC,,0.41,n/a
+VEN,Venezuela (Bolivarian Republic of),Medium,LAC,0.493,0.492,0.001
+VNM,Viet Nam,High,EAP,0.315,0.305,0.01
+VUT,Vanuatu,Medium,EAP,,,n/a
+WSM,Samoa,High,EAP,,0.405,n/a
+YEM,Yemen,Low,AS,0.798,0.785,0.013
+ZAF,South Africa,High,SSA,0.44,0.41,0.03
+ZMB,Zambia,Medium,SSA,0.586,0.534,0.052
+ZWE,Zimbabwe,Medium,SSA,0.592,0.533,0.059
+ZZA.VHHD,Very high human development,,,0.231,0.162,0.069
+ZZB.HHD,High human development,,,0.381,0.332,0.049
+ZZC.MHD,Medium human development,,,0.562,0.496,0.066
+ZZD.LHD,Low human development,,,0.617,0.581,0.036
+ZZE.AS,Arab States,,,0.585,0.538,0.047
+ZZF.EAP,East Asia and the Pacific,,,0.375,0.337,0.038
+ZZG.ECA,Europe and Central Asia,,,0.315,0.239,0.076
+ZZH.LAC,Latin America and the Caribbean,,,0.437,0.388,0.049
+ZZI.SA,South Asia,,,0.569,0.505,0.064
+ZZJ.SSA,Sub-Saharan Africa,,,0.602,0.573,0.029
+ZZK.WORLD,World,,,0.504,0.465,0.039
